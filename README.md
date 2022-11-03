@@ -10,4 +10,4 @@
 
 ## 
 
-Link do projeto:
+Link do projeto: https://stopwatch-peach.vercel.app/
